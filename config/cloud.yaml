@@ -1,0 +1,4 @@
+cloud_details:
+  sample_domain:
+    provider: "aws"
+    region: "us-east-1"
